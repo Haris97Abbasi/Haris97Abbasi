@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 132" width="880" height="132" role="img" aria-labelledby="t d">
+<title id="t">End-to-end AI feature delivery</title>
+<desc id="d">AI layer, backend, APIs, data, UI, testing and deployment — one engineer across the whole feature.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1f3a"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+  <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <clipPath id="card"><rect width="880" height="132" rx="14"/></clipPath>
+</defs>
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .n{animation:lit 7.0s linear infinite}
+  @keyframes lit{0%,16%,100%{stroke:#1e3a5f}4%,9%{stroke:#22d3ee}}
+  .pulse{animation:run 7.0s linear infinite}
+  @keyframes run{from{transform:translateX(-60px)}to{transform:translateX(880px)}}
+  .n0{animation-delay:0.00s}.n1{animation-delay:1.00s}.n2{animation-delay:2.00s}.n3{animation-delay:3.00s}.n4{animation-delay:4.00s}.n5{animation-delay:5.00s}.n6{animation-delay:6.00s}
+  @media (prefers-reduced-motion:reduce){.n,.pulse{animation:none}.pulse{display:none}}
+</style>
+<rect width="880" height="132" rx="14" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="879" height="131" rx="14" fill="none" stroke="#1e3a5f"/>
+<text x="440.0" y="29" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="2.2" fill="#22d3ee">ONE ENGINEER ACROSS THE WHOLE FEATURE</text>
+<g clip-path="url(#card)">
+  <line x1="14" y1="79.0" x2="866" y2="79.0" stroke="#2b4a70" stroke-width="2"/>
+  <rect class="pulse" x="0" y="77.5" width="60" height="3" rx="1.5" fill="url(#pulse)"/>
+</g>
+<rect class="n n0" x="14" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="68.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#67e8f9">AI Layer</text><text x="68.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">LLMs · RAG · MCP</text>
+<rect class="n n1" x="138" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="192.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">Backend</text><text x="192.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">C# · ASP.NET Core</text>
+<rect class="n n2" x="262" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="316.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">APIs</text><text x="316.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">REST · tools</text>
+<rect class="n n3" x="386" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="440.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">Data</text><text x="440.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">SQL · EF Core</text>
+<rect class="n n4" x="510" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="564.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">UI</text><text x="564.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">Blazor · web</text>
+<rect class="n n5" x="634" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="688.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">Testing</text><text x="688.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">xUnit · bUnit</text>
+<rect class="n n6" x="758" y="48" width="108" height="62" rx="10" fill="#0d2440" stroke="#1e3a5f" stroke-width="1.5"/><text x="812.0" y="75" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9">Deployment</text><text x="812.0" y="94" text-anchor="middle" font-size="10.5" fill="#94a3b8">CI/CD · Azure</text>
+</svg>
