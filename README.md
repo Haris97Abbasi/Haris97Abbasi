@@ -8,7 +8,7 @@
 6+ years of software engineering · M.Sc. Computer Science · Düsseldorf, Germany · English & German
 
 <a href="https://haris-abbasi.com/en/"><img src="https://img.shields.io/badge/Website-haris--abbasi.com-0b1f3a?style=for-the-badge" alt="Website: haris-abbasi.com"></a>
-<a href="https://www.linkedin.com/in/haris-abbasi-itsolutions/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/haris-abbasi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:hello@haris-abbasi.com"><img src="https://img.shields.io/badge/Email-hello@haris--abbasi.com-0b1f3a?style=for-the-badge" alt="Email: hello@haris-abbasi.com"></a>
 <a href="https://calendly.com/hello-haris-abbasi/30min"><img src="https://img.shields.io/badge/Book_a_30--min_call-0891b2?style=for-the-badge" alt="Book a 30-minute call"></a>
 
@@ -124,7 +124,7 @@ Have an existing .NET product and want AI in it where it adds real value? Whethe
 
 <a href="https://calendly.com/hello-haris-abbasi/30min"><img src="https://img.shields.io/badge/Book_a_30--min_call-0891b2?style=for-the-badge" alt="Book a 30-minute call"></a>
 <a href="mailto:hello@haris-abbasi.com"><img src="https://img.shields.io/badge/Email-hello@haris--abbasi.com-0b1f3a?style=for-the-badge" alt="Email: hello@haris-abbasi.com"></a>
-<a href="https://www.linkedin.com/in/haris-abbasi-itsolutions/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/haris-abbasi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://haris-abbasi.com/en/"><img src="https://img.shields.io/badge/Website-haris--abbasi.com-0b1f3a?style=for-the-badge" alt="Website: haris-abbasi.com"></a>
 
 </div>
